@@ -4,9 +4,7 @@ A snake game that fits into a single 512-byte boot sector, written in x86 real m
 
 ## Demo
 
-| Play | Game Over |
-| :---: | :---: |
-| <img src="img/play.gif" width="400" /> | <img src="img/game_over.gif" width="400" /> |
+<img src="img/play.gif" width="400" /> | <img src="img/game_over.gif" width="400" />
 
 ## How to play
 
